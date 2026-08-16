@@ -28,7 +28,7 @@ full documentation of each one (purpose, inputs, outputs, run order).
 ## Data sources
 - CDC PLACES (mental health outcome): [[link](https://data.cdc.gov/browse?category=500+Cities+%26+Places&sortBy=relevance&tags=places&pageSize=20&q=PLACES%3A+Local+Data+for+Better+Health%2C+Census+Tract)]
 - ACS covariates: [[link](https://api.census.gov/data/key_signup.html)]
-- SVI: [[link]https://www.atsdr.cdc.gov/place-health/php/svi/svi-data-documentation-download.html)]
+- SVI: [[link](https://www.atsdr.cdc.gov/place-health/php/svi/svi-data-documentation-download.html)]
 - CDC PLACES/ACS/SVI download scripts are not included in this release —
   see SCRIPTS.md §6 for what's referenced but not (yet) included.
 
