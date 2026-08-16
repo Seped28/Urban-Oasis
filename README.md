@@ -8,9 +8,8 @@ across 85,395 US census tracts, 2015–2023.
 - Paper 2a: [ECAS-8 proceedings citation, once assigned]
 - Paper 2b: in preparation
 
-## Pre-registrations
-- Registration 1 (H1–H4): [[OSF link](https://osf.io/dx6ng/)]
-- Registration 2 (H1–H6): [OSF link, once created]
+## Pre-registration
+- Registration (H1–H6): [[OSF link](https://osf.io/dx6ng/)]
 
 ## What's here
 Twelve scripts covering the full pipeline — see [SCRIPTS.md](SCRIPTS.md) for
