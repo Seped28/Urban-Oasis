@@ -20,7 +20,7 @@ full documentation of each one (purpose, inputs, outputs, run order).
 1. Google Earth Engine account with access to your own GEE project
    (`PROJECT = 'urbangreenblue'` in the scripts — change to your own project ID).
 2. Run the three `gee/*.js` scripts in the GEE Code Editor.
-3. `pip install -r requirements.txt`, then run the `python/` scripts in the
+3. Run the `python/` scripts in the
    order given in SCRIPTS.md §1.
 4. `Rscript r/data_prep.R` to build the master panel.
 5. `python python/mgwr_analysis.py` then `python python/validation_report.py`.
