@@ -1,0 +1,18 @@
+# Data outputs (regenerate via the scripts, don't commit)
+data/raw/
+data/processed/
+*.csv
+*.rds
+*.json
+
+# Keep this one JSON if you want the actual MGWR bandwidth results visible
+# without regenerating them — uncomment once that file is finalized:
+# !data/processed/paper2a_mgwr_bandwidths.json
+
+# OS/editor cruft
+.DS_Store
+.Rhistory
+.Rproj.user/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
