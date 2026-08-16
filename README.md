@@ -4,12 +4,12 @@ Satellite-derived urban green/blue space (UGBS) exposure and mental health
 across 85,395 US census tracts, 2015–2023.
 
 ## Papers
-- Paper 1: [citation] Ipede, O., Lin, M., Hladik, C., & Tu, W. (2026). Urban Oases: The Critical Role of Green and Blue Spaces in Mental Well-Being. Sustainability, 18(2), 642. https://doi.org/10.3390/su18020642.
+- Paper 1: Ipede, O., Lin, M., Hladik, C., & Tu, W. (2026). Urban Oases: The Critical Role of Green and Blue Spaces in Mental Well-Being. Sustainability, 18(2), 642. https://doi.org/10.3390/su18020642.
 - Paper 2a: [ECAS-8 proceedings citation, once assigned]
 - Paper 2b: in preparation
 
 ## Pre-registrations
-- Registration 1 (H1–H4): [OSF link]
+- Registration 1 (H1–H4): [[OSF link](https://osf.io/dx6ng/)]
 - Registration 2 (H1–H6): [OSF link, once created]
 
 ## What's here
@@ -33,7 +33,7 @@ full documentation of each one (purpose, inputs, outputs, run order).
   see SCRIPTS.md §6 for what's referenced but not (yet) included.
 
 ## Citation
-If you use this code, please cite [Paper 1 citation] and, once available,
+If you use this code, please cite Paper 1 and, once available,
 [Paper 2a citation].
 
 ## License
